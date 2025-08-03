@@ -1,1 +1,1 @@
-This is the first code in PLP.
+This is the first python code in PLP.
